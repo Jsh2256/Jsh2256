@@ -13,6 +13,9 @@
   #### :fire: Passionate about Web Development and Backend Technologies.
   #### :computer: Always learning new technologies and improving my skills.
   
+  ![Jsh2256's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jsh2256&show_icons=true&theme=radical)
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jsh2256)](https://solved.ac/jsh2256/)
+  
   ## 🧱 Tech Stack
   <!--Language-->
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
@@ -45,13 +48,7 @@
   <!--Spring-->
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
   
-  ## 🤔 Github Stats
-  [![Jsh2256's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jsh2256)](https://github.com/anuraghazra/github-readme-stats)
-  <br/>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jsh2256)](https://github.com/anuraghazra/github-readme-stats)
-  
-  ## 🏆 Solved.ac Profile
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jsh2256)](https://solved.ac/jsh2256/)
   
 </div>
 
