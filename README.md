@@ -1,11 +1,4 @@
 <div>
-  
-  <!--Header-->
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome%20to%20my%20GitHub)
-  
-</div>
-
-<div>
   <!--Body-->
   
   ## 👀 About Me
@@ -47,9 +40,7 @@
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
   <!--Spring-->
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jsh2256)](https://github.com/anuraghazra/github-readme-stats)
-  
+    
 </div>
 
 <!--
