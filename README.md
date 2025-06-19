@@ -11,7 +11,7 @@
   ## 👀 About Me
   #### :wave: I am a Backend Developer from South Korea.
   #### :mortar_board: Undergraduate Researcher at OSLab @ JBNU
-  #### :computer: Currently developing JCode website
+  #### :computer: Currently developing [JCode website](https://jcode.jbnu.ac.kr/about)
   #### :fire: Interested in Backend Development and Cloud Technologies
   #### :dart: Aspiring to become a Backend Engineer
   
