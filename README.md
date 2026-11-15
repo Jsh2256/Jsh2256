@@ -1,18 +1,18 @@
 <div align="center">
 
-# Hi, I'm Soonheon 👋
+# Hi, I'm Soonheon
 
 **Backend Developer** · 신용보증기금(KODIT) IT 개발자
 
 </div>
 
-## 👀 About Me
+## About Me
 
-- 🏢 **신용보증기금(KODIT)** 에서 사내 그룹웨어 개발·운영을 맡고 있습니다
-- 🎓 전북대학교 OSLab 학부연구생 출신으로, SW 교육 플랫폼 **JEduTools** 개발에 참여했습니다
-- 🔥 백엔드 개발, 클라우드 인프라(Kubernetes·AWS)에 관심이 많습니다
+- **신용보증기금(KODIT)** 에서 사내 그룹웨어 개발·운영을 맡고 있습니다
+- 전북대학교 OSLab 학부연구생 출신으로, SW 교육 플랫폼 **JEduTools** 개발에 참여했습니다
+- 백엔드 개발, 클라우드 인프라(Kubernetes·AWS)에 관심이 많습니다
 
-## 🏢 Work @ KODIT (신용보증기금)
+## Work @ KODIT (신용보증기금)
 사내 그룹웨어 개발·운영 (Nexacro · ProObject · Oracle)
 
 **담당 업무** : 회계 · 재물 · 법인카드 · 예산집행 · 기금자금이체 시스템 운영 및 개발
@@ -23,7 +23,7 @@
 - `2026.07` 법인인감 관리 기능 개선
 - `2026.04 ~ 2026.06` 해외전도금 관리 화면 개발
 
-## 🚀 Projects
+## Projects
 
 | 프로젝트 | 설명 | 기술 |
 |---|---|---|
