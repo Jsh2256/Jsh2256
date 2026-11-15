@@ -16,5 +16,5 @@
 
 | 프로젝트 | 설명 | 기술 |
 |---|---|---|
-| [**JCode**](https://github.com/JBNU-JEduTools/JCode) | 브라우저 기반 WebIDE 코딩 과제 플랫폼 ([jcode.jbnu.ac.kr](https://jcode.jbnu.ac.kr)) | code-server, Kubernetes, Docker |
+| [**JCode**](https://github.com/JBNU-JEduTools/JCode) | 브라우저 기반 WebIDE 코딩 과제 플랫폼 ([jcode.jedutools.io](https://jcode.jedutools.io/)) | code-server, Kubernetes, Docker |
 | [**QuizForge**](https://github.com/Jsh2256/QuizForge_Backend) | 강의 음성을 분석해 학습 자료를 자동 생성하는 서버리스 서비스 | AWS Lambda, DynamoDB, Serverless |
